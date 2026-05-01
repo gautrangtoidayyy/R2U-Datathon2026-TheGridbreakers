@@ -115,4 +115,3 @@ Sau khi chạy xong các bước huấn luyện và dự báo, file `submission.
 
 - Vương Thành Đạt - Trưởng nhóm  
    Email: vuongdat0306@gmail.com
-- VinTelligence – VinUni DS&AI Club
