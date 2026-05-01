@@ -43,7 +43,7 @@ Một số thư viện chính được sử dụng:
 - `joblib`, `tqdm`: tiện ích lưu nạp mô hình và hiển thị tiến độ  
 - `openpyxl`: đọc/ghi file Excel (nếu cần sử dụng)  
 
-## 🔍 Quy trình thực hiện
+## Quy trình thực hiện
 
 ### 1. Khám phá và tiền xử lý dữ liệu
 
