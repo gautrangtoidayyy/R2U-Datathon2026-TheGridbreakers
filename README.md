@@ -2,9 +2,9 @@
 
 ## Thành viên nhóm
 
-1. Vương Thành Đạt - Trưởng nhóm  
-2. Trần Nguyên Hưng  
-3. Phạm Phương Thảo  
+1. Vương Thành Đạt - Trưởng nhóm (Data Engineering)
+2. Trần Nguyên Hưng  (Visualisation)
+3. Phạm Phương Thảo  (Modelling)
 
 ## Mục tiêu bài toán
 
