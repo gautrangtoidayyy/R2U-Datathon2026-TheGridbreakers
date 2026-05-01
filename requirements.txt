@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Models
+lightgbm
+xgboost
+
+# Hyperparameter tuning
+optuna
+
+# Utilities
+joblib
+tqdm
+openpyxl
+
+# Optional, useful for notebooks
+jupyter
+ipykernel
